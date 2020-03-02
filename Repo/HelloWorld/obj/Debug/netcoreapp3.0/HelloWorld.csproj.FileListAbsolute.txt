@@ -1,0 +1,13 @@
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csproj.CopyComplete

@@ -1,0 +1,13 @@
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.deps.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.runtimeconfig.dev.json
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.dll
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\bin\Debug\netcoreapp2.1\DutchTreat.pdb
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.csproj.CoreCompileInputs.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorAssemblyInfo.cs
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfoInputs.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.AssemblyInfo.cs
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.RazorTargetAssemblyInfo.cache
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.dll
+E:\Workshop\Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular\Repo\BigProject\DutchTreat\obj\Debug\netcoreapp2.1\DutchTreat.pdb
